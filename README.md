@@ -53,7 +53,7 @@ By default, the notebook downloads it automatically.
 
 ## 🚀 How to Run (in Google Colab)
 
-1. Open the notebook: [Link to Google Colab](#)
+1. Open the notebook: [Link to Google Colab](https://colab.research.google.com/)
 2. Change runtime to GPU:  
    **Runtime** → **Change runtime type** → **GPU**
 3. Run all cells:  

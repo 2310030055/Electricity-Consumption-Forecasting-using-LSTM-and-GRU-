@@ -27,9 +27,9 @@ The notebook is designed for Google Colab so you can run it end-to-end with GPU 
 
 - Two models implemented:
 
- 1) LSTM (Long Short-Term Memory)
+     1) LSTM (Long Short-Term Memory)
 
- 2) GRU (Gated Recurrent Unit)
+     2) GRU (Gated Recurrent Unit)
 
 - Model training with EarlyStopping & LR scheduling
 
@@ -37,11 +37,11 @@ The notebook is designed for Google Colab so you can run it end-to-end with GPU 
 
 - Plots:
 
-1. Training loss curves
+   1. Training loss curves
 
-2. Actual vs Predicted consumption
+   2. Actual vs Predicted consumption
 
-3. Next 24-hour forecast
+   3. Next 24-hour forecast
 
 Export models & results for reuse
 
